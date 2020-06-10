@@ -1,68 +1,99 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Front End for a school managemant software The basic content of the school management solution system is the school portal through which access to the following facility are made available;
 
-## Available Scripts
+ School dashboard
 
-In the project directory, you can run:
+ School calendar
 
-### `npm start`
+ Online payment
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+ Students results
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+ Subject notebooks / text book
 
-### `npm test`
+ CBT (computer based test)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ Assignment submition portal
 
-### `npm run build`
+ Live streaming of students well being (MONTESSORI AND NURSERY)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ Chat box for both students, parents and teachers
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+The portal is divided to four phases;
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+• Teachers portal phase
 
-### `npm run eject`
+• Students portal phase
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+• Parents portal phase
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+• Back end portal phase
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+THE TEACHERS PORTAL PHASE This is where the teacher gets to;
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+• Upload notes and text notes/books
 
-## Learn More
+• Receive assignments
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+• Mark assignments
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+• Upload marks
 
-### Code Splitting
+• Have a chat with students and fellow teachers
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+THE STUDENTS PORTAL PHASE
 
-### Analyzing the Bundle Size
+This is where the students gets to be able to;
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+• Receive and download notes, text book and assignments
 
-### Making a Progressive Web App
+• Submit assignments
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+• Write CBT
 
-### Advanced Configuration
+• View results
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+• Ask questions and make comments
 
-### Deployment
+• Have a chat with fellow students and teachers
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+THE PARENTS PORTAL PHASE
 
-### `npm run build` fails to minify
+This is where the parent gets to be able to;
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+• View childs results
+
+• Make comments and complains, also pass across informations that needs to get to his or her child during school hours
+
+• Make school fee payments and other relevant payments
+
+• Monitor the well being of his or her child or children
+
+THE BACK END PORTAL PHASE
+
+This is controlled by the administrative of the school and our web developer where necessary adjustments and inputing are being made for effectiveness and update of the portals.
+
+The CBT examination are being conducted also from the back end portal phase.
+
+This school management solution software comes in different packages and facilities that comes with each package is listed below;
+
+• Basic package
+
+ Schools dashboard
+
+ Students result
+
+• Full package
+
+ Basic package
+
+ Online payment
+
+ Subject notebooks / text books
+
+ Assignment submition
+
+ CBT (Computer Based Test)
+
+ Live streaming for parents
+
+Online classes
